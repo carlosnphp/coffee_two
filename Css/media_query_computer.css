@@ -1,0 +1,14 @@
+@media (min-width:769px){
+
+    .start{
+        padding: 6rem;
+    }
+    .hero-content{
+        display:grid;
+        grid-template-columns: 1fr 1fr;
+        align-items:center;
+        gap: 2rem;
+    }
+
+    
+} 
